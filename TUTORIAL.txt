@@ -1,0 +1,2 @@
+http://nbviewer.jupyter.org/github/agconti/kaggle-titanic/blob/master/Titanic.ipynb
+https://github.com/agconti/kaggle-titanic#valuation-of-the-analysis
